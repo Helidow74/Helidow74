@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Helidow74
-- ♀️ I'm a girl making her first steps into the tech jungle.
 - 🌱 I’m currently learning python, Django and Tailwind CSS.
-- ♥️ I love thriller and scary novels (especially Stephen King's novels), animals, the Titanic and my computer.
 
 
 <!---
