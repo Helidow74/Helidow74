@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Helidow74
-- 🌱 I’m currently learning python, Django and Tailwind CSS.
+- 🌱 I’m currently learning python, SQL and Data sciences.
 
 
 <!---
