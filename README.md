@@ -14,6 +14,8 @@ And here I am, ready to take my first steps into the snake cage... sorry, I mean
 In this Github repo, you'll find, over time, **exercises and projects carried out during my training**, but also, and above all, the **personal projects** I'll be working on.
 
 ![cover](https://github.com/Helidow74/Helidow74/blob/main/image77_resized.png)
+
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,linux,heroku,git,docker)](https://skillicons.dev)
 <!---
 Helidow74/Helidow74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
