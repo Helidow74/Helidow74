@@ -1,6 +1,7 @@
 # Hello!
 
 My name is **Ursula** and I'm a **woman in tech**.
+
 After a long search for my way in the technological jungle, I came across a programming language that caught my attention: **Python**. 
 
 I started by getting to know the beast through **self-study**, before deciding that I'd really like to learn how to whisper in Python's ear. 
