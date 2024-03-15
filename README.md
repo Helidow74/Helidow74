@@ -12,7 +12,7 @@ So I took a **Fullstack course in Data Science & Engineering**.
 
 And here I am, ready to take my first steps into the snake cage... sorry, I meant : into the **world of data with python** as my travelling companion. When you put it like that, it doesn't sound so scary, does it?
 
-In this Github repo, you'll find, over time, **exercises and projects carried out during my training**, but also, and above all, the **personal projects** I'll be working on.
+Welcome on my github !
 
 ![cover](https://github.com/Helidow74/Helidow74/blob/main/image77_resized.png)
 
